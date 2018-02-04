@@ -2,3 +2,5 @@ The subjects
 maths 
 english 
 social
+science 
+biology
